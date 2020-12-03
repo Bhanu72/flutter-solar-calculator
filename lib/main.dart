@@ -13,6 +13,7 @@ class SolarCal extends StatelessWidget {
       theme: ThemeData.dark().copyWith(
 
         primaryColor: Color(0xFF526067),
+        //primaryColor: Color(0xFF526067),
         scaffoldBackgroundColor: Color(0xFFC2CBCA),
       ),
       home: Screen1(),
